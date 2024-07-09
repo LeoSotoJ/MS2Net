@@ -1,3 +1,6 @@
-data/
+data/raw/ms2deepscore/MS2DeepScore_allGNPSpositive_10k_500_500_200.hdf5
+data/raw/ms2deepscore/ms2deepscore_model.pt
+data/raw/MassBank/MassBank_NIST_Feb20.msp
+data/processed/MS2MassBank/MassBank_NIST_Feb20_metadata.msp
 __pycache__/
 **/.ipynb_checkpoints/
